@@ -14,6 +14,12 @@ pip install psutil
 
 You can choose to copy and paste the `.exe` file which has the same name as the program in your startup folder in your system to get the program running from system start incase you dont want to be bothered to run the program manually all the time
 
+This program was converted into an `exe` using `auto-py-to-exe`. you can install the same using the following command and make any changes that you see fit.
+
+```bash
+pip install auto-py-to-exe
+```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
